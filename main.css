@@ -29,7 +29,6 @@
     font-size: 24px;
     line-height: 100%;
     letter-spacing: 0%;
-
 }
 
 .header-btn {
@@ -48,4 +47,43 @@
     border-radius: 10px;
     background-color: rgb(99, 99, 217);
     color: white;
+}
+
+.hero-title {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+.hero-text {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: white;
+    margin-bottom: 50px;
+}
+.hero-btn{
+    width: 135px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.hero-container {
+    background-image: url(/images/team.jpg);
+    background-size: cover;
+    width: 1200px;
+    height: 600px;
+    padding: 40px;
+    text-align: center;
 }
