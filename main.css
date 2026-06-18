@@ -86,4 +86,24 @@
     height: 600px;
     padding: 40px;
     text-align: center;
+    filter: brightness(80%);
+
+}
+.aside-container{
+    display: flex;
+    gap: 70px;
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    transform: translateX(calc(-50% + 40px));
+    top: 650px;
+    width: 800px;
+    height: 100px;
+    box-shadow: grey 5px 5px 5px 5px;
+}
+.aside-img{
+    margin: 0 auto;
+    width: 650px;
+    height: 80px;
 }
