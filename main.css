@@ -182,12 +182,14 @@
     height: 220px;
 }
 
-.card-item{
+.card-item {
     margin: 0 auto;
 }
-.card-img{
+
+.card-img {
     margin-bottom: 30px;
 }
+
 .card-title2 {
     font-family: "DM Sans", sans-serif;
     font-weight: 700;
@@ -204,4 +206,68 @@
     line-height: 155%;
     letter-spacing: 0%;
     text-align: center;
+}
+
+.profile-container {
+    margin-top: 50px;
+}
+
+.profile-title {
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+.profile-text {
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 680px;
+    margin: auto;
+}
+
+.profile-list {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.profile-item {
+    width: 370px;
+    height: 485px;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.profile-img {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.profile-title2 {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-bottom: 10px;
+}
+
+.profile-text2 {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 155%;
+    letter-spacing: 0%;
+
 }
