@@ -138,11 +138,36 @@
     letter-spacing: 0%;
     margin-bottom: 30px;
 }
-.main-btn{
+
+.main-btn {
     background-color: blue;
     color: white;
     border: none;
     border-radius: 5px;
     width: 130px;
     height: 45px;
+}
+
+.card-container {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.card-title {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-bottom: 30px;
+}
+
+.card-text {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 50px;
 }
