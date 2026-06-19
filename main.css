@@ -114,3 +114,6 @@
     width: 650px;
     height: 80px;
 }
+.main-list{
+    display: flex;
+}
