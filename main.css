@@ -269,5 +269,39 @@
     font-size: 14px;
     line-height: 155%;
     letter-spacing: 0%;
+}
 
+.card2-container {
+    margin-top: 40px;
+}
+
+.card2-item2 {
+    display: flex;
+    gap: 10px;
+}
+
+.card2-title {
+    font-family: "DM Sans", Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    width: 520px;
+    margin: auto;
+}
+
+.card2-text {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 560px;
+    margin: auto;
+}
+
+.card2-img {
+    width: 380px;
+    height: 500px;
 }
