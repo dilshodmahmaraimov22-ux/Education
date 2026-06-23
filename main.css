@@ -520,3 +520,36 @@
     border-radius: 5px;
     border: none;
 }
+
+.section-container {
+    text-align: center;
+}
+
+.section-title {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.section-text {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+    letter-spacing: 0%;
+    margin-bottom: 40px;
+}
+
+.section-item {
+    display: flex;
+    gap: 20px;
+}
+
+.section-img {
+    width: 400px;
+    height: 340px;
+}
