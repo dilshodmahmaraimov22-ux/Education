@@ -344,8 +344,111 @@
     width: 380px;
     height: 500px;
 }
-.aside2-container{
+
+.aside2-container {
     background-color: #D3E5FE;
     width: 1200px;
     height: 250px;
+}
+
+.aside2-list {
+    padding: 100px;
+}
+
+.aside2-item {
+    display: flex;
+    gap: 40px;
+    position: relative;
+}
+
+.aside2-title {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(calc(-50% - 380px));
+    top: 0;
+}
+
+.aside2-title2 {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(calc(-50% - 140px));
+    top: 0;
+}
+
+.aside2-title3 {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(calc(-50% + 140px));
+    top: 0;
+}
+
+.aside2-title4 {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(calc(-50% + 380px));
+    top: 0;
+}
+
+.aside2-text {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+    letter-spacing: 0%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(calc(-50% - 380px));
+    top: 60px;
+}
+.aside2-text2{
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+    letter-spacing: 0%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(calc(-50% - 140px));
+    top: 60px;
+}
+.aside2-text3{
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+    letter-spacing: 0%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(calc(-50% + 140px));
+    top: 60px;
+}
+.aside2-text4{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+    letter-spacing: 0%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(calc(-50% + 380px));
+    top: 60px;
 }
