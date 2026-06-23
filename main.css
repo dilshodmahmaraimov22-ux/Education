@@ -604,3 +604,12 @@
     background-color: #086CF9;
     color: white;
 }
+.footer-container{
+    background-color: #D3E5FE;
+    padding: 20px;
+    height: 450px;
+}
+.footer-list{
+    display: flex;
+    gap: 40px;
+}
