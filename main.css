@@ -452,3 +452,10 @@
     transform: translateX(calc(-50% + 380px));
     top: 60px;
 }
+.blog-list{
+    display: flex;
+}
+.blog-img{
+    width: 370px;
+    height: 250px;
+}
