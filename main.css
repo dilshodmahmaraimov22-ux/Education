@@ -553,3 +553,20 @@
     width: 400px;
     height: 340px;
 }
+
+.reg-container {
+    width: 940px;
+    height: 330px;
+    background-color: #086CF9;
+    text-align: center;
+    margin: auto;
+}
+
+.reg-title {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: white;
+}
