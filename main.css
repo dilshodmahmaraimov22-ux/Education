@@ -456,6 +456,10 @@
     top: 60px;
 }
 
+.blog-container {
+    text-align: center;
+}
+
 .blog-list {
     display: flex;
     gap: 20px;
@@ -471,10 +475,12 @@
     margin-top: 20px;
     margin-bottom: 50px;
 }
-.blog-item{
+
+.blog-item {
     border: rgb(143, 134, 134) 1px solid;
     height: 480px;
 }
+
 .blog-img {
     width: 370px;
     height: 250px;
@@ -500,6 +506,17 @@
     text-align: center;
     margin-bottom: 20px;
 }
-.blog-link{
+
+.blog-link {
     padding: 20px;
+}
+
+.blog-btn {
+    width: 140px;
+    height: 50px;
+    margin-top: 50px;
+    background-color: #086CF9;
+    color: white;
+    border-radius: 5px;
+    border: none;
 }
