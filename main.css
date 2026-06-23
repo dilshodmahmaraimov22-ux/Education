@@ -583,16 +583,19 @@
     color: white;
     margin-top: 20px;
 }
-.reg-form{
+
+.reg-form {
     margin-top: 30px;
     position: relative;
 }
-.reg-input{
+
+.reg-input {
     width: 500px;
     height: 60px;
     padding: 20px;
 }
-.reg-btn{
+
+.reg-btn {
     width: 120px;
     height: 50px;
     position: absolute;
@@ -604,12 +607,62 @@
     background-color: #086CF9;
     color: white;
 }
-.footer-container{
+
+.footer-container {
     background-color: #D3E5FE;
     padding: 20px;
-    height: 450px;
+    height: 430px;
 }
-.footer-list{
+
+.footer-list {
     display: flex;
-    gap: 40px;
+    gap: 50px;
+}
+
+.footer-title {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.footer-title2 {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.footer-img {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.footer-text1 {
+    width: 360px;
+    width: 200px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+    letter-spacing: 0%;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.footer-text {
+    width: 200px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+    letter-spacing: 0%;
+    margin-top: 20px;
+    margin-left: 30px;
 }
